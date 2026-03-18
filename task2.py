@@ -326,6 +326,7 @@ match day:
     case 7:
         print("saturday")
 
+
 # task - 39
 # Take a number (1-3) and print
 
